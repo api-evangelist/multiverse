@@ -1,0 +1,14 @@
+generated: '2026-07-20'
+method: searched
+source: https://status.multiverse.io
+status_page: https://status.multiverse.io
+status_page_provider: UptimeRobot
+notes: >-
+  Multiverse (multiverse.io) is an edtech / workforce-upskilling platform and
+  publishes no public developer API, so there is no API versioning, deprecation,
+  or Sunset-header policy to capture. The only lifecycle signal found is a public
+  service status page (UptimeRobot) at status.multiverse.io.
+versioning: null
+deprecation: null
+sla: null
+deprecated_operations: []
